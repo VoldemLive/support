@@ -27,5 +27,7 @@ target/
 .DS_Store
 Thumbs.db
 
+.env
+
 # Logs
 *.log" > .gitignore
